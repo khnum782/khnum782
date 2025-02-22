@@ -5,7 +5,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2>linguagem de programação</h2>
+  <h2>Linguagem de Programação</h2>
   <img align="center" alt="Gu-HTML"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img align="center" alt="Gu-CSS"    height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img align="center" alt="Gu-JS"     height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -31,7 +31,7 @@
   <a alt="linkedin" href="https://www.linkedin.com/in/gustavo-d-b11ba8110/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
- <h2>git hub status</h2>
+ <h2>Git Hub status</h2>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khnum782&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=5.5)](https://github.com/khnum782)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&card_width=465rem&hide_border=true)](https://github.com/khnum782)
